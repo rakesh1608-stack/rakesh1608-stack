@@ -206,5 +206,45 @@ I actively contribute to research in AI, cloud computing, enterprise architectur
 
 If you enjoy my work on Enterprise AI, Cloud, and Platform Engineering, consider following my repositories and connecting with me on LinkedIn.
 
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/rakesh1608-stack/rakesh1608-stack/output/github-contribution-grid-snake.svg" alt="Snake Animation"/>
+</p>
+
+## 🚀 Featured Technologies
+
+<div align="center">
+
+| AI & ML | Cloud | DevOps | Observability |
+|---------|---------|---------|---------------|
+| OpenAI | AWS | Docker | Splunk |
+| Azure AI | Azure | Kubernetes | Dynatrace |
+| LangChain | GCP | Terraform | Datadog |
+| LLMOps | Bedrock | GitHub Actions | Grafana |
+
+</div>
+
+## 🎯 2026 Goals
+
+- ✅ Publish Enterprise AI open-source projects
+- 📚 Release technical articles every month
+- 🤝 Contribute to enterprise open-source initiatives
+- 🧠 Advance research in Agentic AI and LLMOps
+- ☁️ Build production-ready AI reference architectures
+
+  ┌────────────────────────────┐
+│ Contribution Calendar      │
+│ Languages                  │
+│ Commits                    │
+│ Pull Requests              │
+│ Stars                      │
+└────────────────────────────┘
+
+🤖 AI & Platform Engineer | ☁️ AWS | Azure | Kubernetes | 🏆 IEEE Senior Member | 🚀 Building Enterprise AI
+
+Senior Consultant | AI • Cloud • Platform Engineering | IEEE Senior Member | Enterprise AI Researcher | Open Source Enthusiast
+
+
 
 
