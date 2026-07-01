@@ -233,14 +233,6 @@ If you enjoy my work on Enterprise AI, Cloud, and Platform Engineering, consider
 - 🧠 Advance research in Agentic AI and LLMOps
 - ☁️ Build production-ready AI reference architectures
 
-  ┌────────────────────────────┐
-│ Contribution Calendar      │
-│ Languages                  │
-│ Commits                    │
-│ Pull Requests              │
-│ Stars                      │
-└────────────────────────────┘
-
 
 
 
