@@ -13,7 +13,7 @@ Building Enterprise AI, Cloud Platforms, and Scalable DevOps Solutions
 </p>
 
 <p align="center">
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=AI+Engineer;Platform+Engineer;AWS+%7C+Azure+%7C+Kubernetes;IEEE+Senior+Member;Enterprise+AI+Researcher)](https://git.io/typing-svg)
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=Senior+Consultant;AI+%26+Platform+Engineer;AWS+%7C+Azure+%7C+Kubernetes;DevOps+%7C+GenAI+%7C+LLMOps;IEEE+Senior+Member;Enterprise+AI+Researcher" alt="Typing SVG" />
 </p>
 
 <p align="center">
