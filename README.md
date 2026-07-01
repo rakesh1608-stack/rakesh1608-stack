@@ -180,4 +180,31 @@ I actively contribute to research in AI, cloud computing, enterprise architectur
 > I enjoy transforming complex enterprise challenges into scalable, AI-powered solutions while continuously learning and sharing knowledge with the tech community.
 >
 
+## 📈 GitHub Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rakesh1608-stack&theme=tokyo-night&hide_border=true" alt="GitHub Activity Graph"/>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=rakesh1608-stack&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
+</p>
+
+## 🏆 GitHub Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=rakesh1608-stack&theme=tokyonight&row=2&column=4&margin-w=15&margin-h=15" />
+</p>
+
+## 💭 Daily Dev Quote
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+</p>
+
+## ☕ Support My Work
+
+If you enjoy my work on Enterprise AI, Cloud, and Platform Engineering, consider following my repositories and connecting with me on LinkedIn.
+
+
 
