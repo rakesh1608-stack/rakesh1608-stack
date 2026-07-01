@@ -150,7 +150,7 @@ I actively contribute to research in AI, cloud computing, enterprise architectur
 - 🤖 Microsoft Certified: Azure AI Engineer Associate
 - 📈 Project Management Professional (PMP)
 
-  ## 📫 Connect With Me
+ ## 📫 Connect With Me
 
 <p align="center">
 
@@ -160,6 +160,10 @@ I actively contribute to research in AI, cloud computing, enterprise architectur
 
 <a href="https://github.com/rakesh1608-stack">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://www.enterpriseintelligencelab.com/">
+<img src="https://img.shields.io/badge/Website-Enterprise%20Intelligence%20Lab-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
 
 <a href="mailto:rkagrawal@ieee.org">
