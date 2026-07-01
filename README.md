@@ -81,3 +81,103 @@ I'm **Rakesh Kumar Agrawal**, a **Senior Consultant** with over **15 years of ex
 - Datadog
 - ELK Stack
 - Grafana
+
+  ## 📊 GitHub Statistics
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rakesh1608-stack&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rakesh1608-stack&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=rakesh1608-stack&theme=tokyonight&hide_border=true" />
+</p>
+
+## 📈 Contribution Graph
+
+[![Rakesh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=rakesh1608-stack&theme=tokyo-night)](https://github.com/rakesh1608-stack)
+
+## 🏆 Certifications
+
+| Certification | Issued By |
+|---------------|-----------|
+| ☁️ AWS Certified Generative AI – Professional | Amazon Web Services |
+| 🤖 Microsoft Certified: Azure AI Engineer Associate | Microsoft |
+| 📈 Project Management Professional (PMP) | PMI |
+| 💻 IEEE Professional Software Developer Certification | IEEE |
+| 🧠 LLMOps Professional Certificate | Duke University |
+| ☁️ Digital Transformation with Google Cloud | Google Cloud |
+| 📊 Generative AI Fundamentals | Databricks |
+
+## 📚 Research & Publications
+
+I actively contribute to research in AI, cloud computing, enterprise architecture, and intelligent systems.
+
+### Featured Work
+
+- 🧠 Enterprise Digital Brain
+- ⚡ BQEB ForecastBench
+- 🤖 Enterprise AI Operating Models
+- 🔐 AI-Augmented DevSecOps
+- ☁️ Cloud Native Enterprise Platforms
+
+📖 Research interests include:
+
+- Agentic AI
+- Multi-Agent Systems
+- LLMOps
+- Enterprise AI
+- Platform Engineering
+- Intelligent Automation
+
+## 🌟 Featured Projects
+
+| Project | Description | Status |
+|---------|-------------|--------|
+| 🧠 Enterprise Digital Brain | AI-powered enterprise knowledge management and decision platform | 🚧 In Progress |
+| 🤖 Enterprise AI Blueprints | Enterprise AI reference architectures and implementation guides | 🚧 In Progress |
+| ☁️ Platform Engineering Toolkit | DevOps, Kubernetes, Terraform, and automation examples | 🚧 In Progress |
+| 📊 Enterprise Intelligence Lab | AI, Cloud, and Digital Transformation articles and resources | ✅ Active |
+| ⚡ Cloud Automation Scripts | Infrastructure automation using AWS, Azure, and Terraform | 🚧 In Progress |
+
+## 🎓 Education & Professional Development
+
+- 🎓 Master of Computer Applications (MCA)
+- 🏅 IEEE Senior Member
+- 📖 IEEE Technical Reviewer
+- ☁️ AWS Certified Generative AI – Professional
+- 🤖 Microsoft Certified: Azure AI Engineer Associate
+- 📈 Project Management Professional (PMP)
+
+  ## 📫 Connect With Me
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/rakeshkumaragrawal/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/rakesh1608-stack">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="mailto:rkagrawal@ieee.org">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
+
+## 🎯 Current Focus
+
+- 🚀 Building Enterprise AI solutions
+- 🤖 Developing Agentic AI applications
+- ☁️ Cloud-native Platform Engineering
+- 📚 Publishing AI and Cloud research
+- 🌍 Contributing to open source projects
+
+  ## ⚡ Fun Fact
+
+> I enjoy transforming complex enterprise challenges into scalable, AI-powered solutions while continuously learning and sharing knowledge with the tech community.
+>
+
+
