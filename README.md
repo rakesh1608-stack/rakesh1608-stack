@@ -49,3 +49,35 @@ I'm **Rakesh Kumar Agrawal**, a **Senior Consultant** with over **15 years of ex
 - LLMOps & RAG Applications
 - AI Governance
 - Cloud-Native AI Platforms
+
+  ## 🛠️ Tech Stack
+
+### ☁️ Cloud & DevOps
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,kubernetes,terraform,githubactions,git,linux,bash" />
+</p>
+
+### 💻 Programming
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=python,java,js,html,css,mysql" />
+</p>
+
+### 🤖 AI & Data
+
+- OpenAI
+- LangChain
+- LLMOps
+- RAG
+- Azure AI
+- AWS Bedrock
+- Vector Databases
+
+### 📊 Observability
+
+- Dynatrace
+- Splunk
+- Datadog
+- ELK Stack
+- Grafana
