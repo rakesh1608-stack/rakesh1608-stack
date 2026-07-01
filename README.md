@@ -32,7 +32,9 @@ Building Enterprise AI, Cloud Platforms, and Scalable DevOps Solutions
 
 ## 👨‍💻 About Me
 
-I'm **Rakesh Kumar Agrawal**, a **Senior Consultant** with over **15 years of experience** in enterprise technology, specializing in AI, cloud platforms, DevOps, and platform engineering. I enjoy building scalable, secure, and intelligent solutions that help organizations accelerate digital transformation.
+I'm a Senior Consultant and AI Platform Engineer with 20+ years of experience designing enterprise-scale cloud platforms, AI-powered solutions, and modern DevOps ecosystems.
+
+My interests span Enterprise AI, Platform Engineering, Cloud Architecture, LLMOps, and Intelligent Automation. I enjoy transforming complex business challenges into scalable, secure, and resilient technology solutions.
 
 ### 🚀 What I Do
 
@@ -93,21 +95,19 @@ I'm **Rakesh Kumar Agrawal**, a **Senior Consultant** with over **15 years of ex
   <img src="https://streak-stats.demolab.com?user=rakesh1608-stack&theme=tokyonight&hide_border=true" />
 </p>
 
-## 📈 Contribution Graph
-
-[![Rakesh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=rakesh1608-stack&theme=tokyo-night)](https://github.com/rakesh1608-stack)
-
 ## 🏆 Certifications
 
-| Certification | Issued By |
-|---------------|-----------|
-| ☁️ AWS Certified Generative AI – Professional | Amazon Web Services |
-| 🤖 Microsoft Certified: Azure AI Engineer Associate | Microsoft |
-| 📈 Project Management Professional (PMP) | PMI |
-| 💻 IEEE Professional Software Developer Certification | IEEE |
-| 🧠 LLMOps Professional Certificate | Duke University |
-| ☁️ Digital Transformation with Google Cloud | Google Cloud |
-| 📊 Generative AI Fundamentals | Databricks |
+<p align="center">
+
+<img src="https://img.shields.io/badge/AWS-GenAI_Professional-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Microsoft-Azure_AI_Engineer-0078D4?style=for-the-badge&logo=microsoftazure"/>
+
+<img src="https://img.shields.io/badge/PMI-PMP-2D9C44?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/IEEE-Professional_Software_Developer-blue?style=for-the-badge"/>
+
+</p>
 
 ## 📚 Research & Publications
 
@@ -123,12 +123,13 @@ I actively contribute to research in AI, cloud computing, enterprise architectur
 
 📖 Research interests include:
 
-- Agentic AI
-- Multi-Agent Systems
-- LLMOps
-- Enterprise AI
-- Platform Engineering
-- Intelligent Automation
+🤖 Agentic AI
+
+🧠 LLMOps
+
+☁️ Enterprise AI
+
+🚀 Platform Engineering
 
 ## 🌟 Featured Projects
 
@@ -202,9 +203,7 @@ I actively contribute to research in AI, cloud computing, enterprise architectur
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
 </p>
 
-## ☕ Support My Work
-
-If you enjoy my work on Enterprise AI, Cloud, and Platform Engineering, consider following my repositories and connecting with me on LinkedIn.
+## ✍️ Latest Articles
 
 ## 🐍 Contribution Snake
 
@@ -232,6 +231,28 @@ If you enjoy my work on Enterprise AI, Cloud, and Platform Engineering, consider
 - 🤝 Contribute to enterprise open-source initiatives
 - 🧠 Advance research in Agentic AI and LLMOps
 - ☁️ Build production-ready AI reference architectures
+
+  Languages
+
+Achievements
+
+Repositories
+
+Stars
+
+Activity
+
+Calendar
+
+---
+
+<p align="center">
+
+⭐ Thanks for visiting my profile!
+
+Let's connect and build the future of Enterprise AI together.
+
+</p>
 
 
 
