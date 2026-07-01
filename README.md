@@ -241,9 +241,6 @@ If you enjoy my work on Enterprise AI, Cloud, and Platform Engineering, consider
 │ Stars                      │
 └────────────────────────────┘
 
-🤖 AI & Platform Engineer | ☁️ AWS | Azure | Kubernetes | 🏆 IEEE Senior Member | 🚀 Building Enterprise AI
-
-Senior Consultant | AI • Cloud • Platform Engineering | IEEE Senior Member | Enterprise AI Researcher | Open Source Enthusiast
 
 
 
