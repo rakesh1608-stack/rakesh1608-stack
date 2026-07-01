@@ -29,3 +29,23 @@ Building Enterprise AI, Cloud Platforms, and Scalable DevOps Solutions
 <img src="https://img.shields.io/badge/OpenAI-GenAI-black?style=for-the-badge&logo=openai"/>
 
 </p>
+
+## 👨‍💻 About Me
+
+I'm **Rakesh Kumar Agrawal**, a **Senior Consultant** with over **15 years of experience** in enterprise technology, specializing in AI, cloud platforms, DevOps, and platform engineering. I enjoy building scalable, secure, and intelligent solutions that help organizations accelerate digital transformation.
+
+### 🚀 What I Do
+
+- 🤖 Build Enterprise AI and Generative AI solutions
+- ☁️ Design cloud-native architectures on AWS & Azure
+- ⚙️ Develop DevOps and Platform Engineering practices
+- 📈 Improve system reliability through SRE and observability
+- 📚 Conduct research in AI, cloud computing, and intelligent systems
+- 🏆 IEEE Senior Member and Technical Reviewer
+
+### 🌱 Currently Learning
+
+- Agentic AI & Multi-Agent Systems
+- LLMOps & RAG Applications
+- AI Governance
+- Cloud-Native AI Platforms
