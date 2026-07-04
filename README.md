@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/rakesh1608-stack/rakesh1608-stack/main/assets/banner.png" alt="Banner" width="100%">
+  <img src="https://raw.githubusercontent.com/RakeshKumarAgrawal/Rakesh-K-Agrawal/main/assets/banner.png" alt="Banner" width="100%">
 </p>
 
 <h1 align="center">Hi 👋, I'm Rakesh Kumar Agrawal</h1>
@@ -87,8 +87,8 @@ My interests span Enterprise AI, Platform Engineering, Cloud Architecture, LLMOp
   ## 📊 GitHub Statistics
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rakesh1608-stack&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rakesh1608-stack&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rakesh-K-Agrawal&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rakesh-K-Agrawal&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
@@ -143,7 +143,7 @@ I actively contribute to research in AI, cloud computing, enterprise architectur
 
 ## 🎓 Education & Professional Development
 
-- 🎓 Master of Computer Applications (MCA)
+- 🎓 Bachelor of Technology (B.Tech)
 - 🏅 IEEE Senior Member
 - 📖 IEEE Technical Reviewer
 - ☁️ AWS Certified Generative AI – Professional
@@ -188,17 +188,17 @@ I actively contribute to research in AI, cloud computing, enterprise architectur
 ## 📈 GitHub Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rakesh1608-stack&theme=tokyo-night&hide_border=true" alt="GitHub Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rakesh-K-Agrawal&theme=tokyo-night&hide_border=true" alt="GitHub Activity Graph"/>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rakesh1608-stack&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=Rakesh-K-Agrawal&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
 </p>
 
 ## 🏆 GitHub Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rakesh1608-stack&theme=tokyonight&row=2&column=4&margin-w=15&margin-h=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Rakesh-K-Agrawal&theme=tokyonight&row=2&column=4&margin-w=15&margin-h=15" />
 </p>
 
 ## 💭 Daily Dev Quote
@@ -212,7 +212,7 @@ I actively contribute to research in AI, cloud computing, enterprise architectur
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/rakesh1608-stack/rakesh1608-stack/output/github-contribution-grid-snake.svg" alt="Snake Animation"/>
+  <img src="https://raw.githubusercontent.com/rakesh1608-stack/Rakesh-K-Agrawal/output/github-contribution-grid-snake.svg" alt="Snake Animation"/>
 </p>
 
 ## 🚀 Featured Technologies
