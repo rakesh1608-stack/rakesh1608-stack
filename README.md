@@ -30,11 +30,18 @@ Building Enterprise AI, Cloud Platforms, and Scalable DevOps Solutions
 
 </p>
 
-## 👨‍💻 About Me
+## 👋 About Me
 
-I'm a Senior Consultant and AI Platform Engineer with 20+ years of experience designing enterprise-scale cloud platforms, AI-powered solutions, and modern DevOps ecosystems.
+Senior Consultant with 15+ years of experience designing enterprise platforms, cloud-native systems, and AI solutions.
 
-My interests span Enterprise AI, Platform Engineering, Cloud Architecture, LLMOps, and Intelligent Automation. I enjoy transforming complex business challenges into scalable, secure, and resilient technology solutions.
+My current work focuses on:
+
+- Enterprise AI
+- Agentic AI
+- Platform Engineering
+- Cloud Architecture
+- LLMOps
+- Intelligent Automation
 
 ### 🚀 What I Do
 
@@ -141,6 +148,13 @@ I actively contribute to research in AI, cloud computing, enterprise architectur
 | 📊 Enterprise Intelligence Lab | AI, Cloud, and Digital Transformation articles and resources | ✅ Active |
 | ⚡ Cloud Automation Scripts | Infrastructure automation using AWS, Azure, and Terraform | 🚧 In Progress |
 
+| Project | Description |
+|---------|-------------|
+| 🧠 Enterprise Digital Brain | AI-powered enterprise knowledge platform |
+| 🏗 Enterprise AI Blueprints | Enterprise AI reference architectures |
+| ☁️ Platform Engineering Toolkit | Cloud-native platform engineering resources |
+| 📚 Research Papers | AI, cloud, and enterprise architecture research |
+
 ## 🎓 Education & Professional Development
 
 - 🎓 Bachelor of Technology (B.Tech)
@@ -179,6 +193,19 @@ I actively contribute to research in AI, cloud computing, enterprise architectur
 - ☁️ Cloud-native Platform Engineering
 - 📚 Publishing AI and Cloud research
 - 🌍 Contributing to open source projects
+
+  ## 🌐 Enterprise Intelligence Lab
+
+Enterprise Intelligence Lab is an open-source initiative focused on:
+
+- Enterprise AI
+- Agentic AI
+- Platform Engineering
+- Cloud Architecture
+- LLMOps
+- Digital Transformation
+
+🔗 https://www.enterpriseintelligencelab.com
 
   ## ⚡ Fun Fact
 
